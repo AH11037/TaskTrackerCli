@@ -1,5 +1,5 @@
 # TaskTrackerCli
-This is a simple task tracker cli I made after seeing the idea on https://roadmap.sh/projects/task-tracker
+This is a simple task tracker cli I made
 You need to precede all the commands with:
 ```
 python task-cli.py
